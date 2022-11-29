@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Favorite Songs</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body class="w3-content" style="max-width:1300px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+  <div class="w3-half w3-black w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>Favorite Songs</h1>
+    </div>
+    <div class="w3-padding-64">
+      <a href="#" class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-16">Perfect</a>
+      <a href="#work" class="w3-button w3-black w3-block w3-hover-teal w3-padding-16">Dive</a>
+      <a href="#work" class="w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">Photograph</a>
+      <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Afterglow</a>
+    </div>
+  </div>
+  <div class="w3-half w3-blue-grey w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-center">
+      <h1>1. PERFECT</h1>
+      <img src="Perfect.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
+      <div class="w3-left-align w3-padding-large">
+        <p>The speaker, or singer, in the song “Perfect,” is Ed Sheeran. He wrote this song to describe how perfect his girlfriend is, in his eyes.</p>
+        <p>Throughout the song he describes the love he has for this girl and everything he wants to share with her. His love is expressed through the use of diction, tone, and sound to show that he has found “the one”.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+  <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+    <div class="w3-padding-64 w3-center">
+      <h2>2. DIVE</h2>
+      <img src="Dive.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
+      <div class="w3-left-align w3-padding-large">
+      <p>In an interview with GQ magazine for its March cover, Ed let the writer listen to five songs before anyone else and described “Dive” as:</p>
+      <p>"Sheeran openly admits that all the love songs on the album are about Seaborn, and “Dive” returns to the themes of vulnerability, a sense of devotion and emotional reflection, using the classic Fifties and early Sixties soul/Stax ballad arpeggio and time sequence."</p>
+    </div>
+    </div>
+
+    <div class="w3-row w3-hide-small">
+      
+    </div><br>
+  </div>
+  <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+    <div class="w3-padding-64 w3-center">
+      <h2>3. PHOTOGRAPH</h2>
+      <img src="Photograph.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
+      <p>“Photograph” is the 5th radio single from x. Ed said about it that “it will be the one that will change my career path”, and hopes it will sell the album “even if the rest of the album is shit”.</p>
+      <p>“Photograph” is a song about the unique struggles of long-distance relationships. Sheeran urges his partner to look at a photograph of the two of them when things get tough and remember the good times.</p>
+      <div class="w3-container w3-responsive">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Third Grid: Swing By & Contact --> 
+  <div class="w3-half w3-teal w3-container" style="height:700px">
+    <div class="w3-padding-64 w3-center">
+      <h1>4. AFTERGLOW</h1>
+      <img src="Afterglow.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
+      <p>Sheeran wrote the song in 2019. It finds him crooning about his love for his wife Cherry Seaborn, whom he married in January of that year. Sheeran wants those special intimate moments with Cherry to last forever. An afterglow can refer to the glow frequently seen in the sky after the sun has set, or to the pleasant remembrance following sex.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-black w3-padding-16">
+</footer>
+
+</body>
+</html>
